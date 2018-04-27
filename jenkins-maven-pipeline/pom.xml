@@ -49,6 +49,7 @@
 		<url>http://35.196.199.134:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 </distributionManagement>
+
 	<build>
 		<plugins>
 			<plugin>
